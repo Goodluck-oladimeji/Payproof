@@ -1,0 +1,17 @@
+# Secrets / local config
+config/config.php
+.env
+*.env
+
+# Database dumps with real data
+*.dump
+backup*.sql
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
