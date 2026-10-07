@@ -80,7 +80,7 @@ payproof/
 
 1. **Clone** into your server folder (e.g. `htdocs/` or `www/`):
    ```bash
-   git clone https://github.com/<your-username>/payproof.git
+   git clone https://github.com/<Goodluck-oladimeji>/payproof.git
    ```
 2. **Create the database:** import `database/schema.sql` (phpMyAdmin or `mysql < database/schema.sql`).
 3. **Configure:**
